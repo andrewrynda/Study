@@ -1,2 +1,2 @@
-# Study
+# Study work with Git
 some content
